@@ -43,7 +43,7 @@ Mikeyroll, is a personal project inspired from Crunchyroll.
 
 ## Front-end Technologies
 
-- WIP
+- React
 
 ## Back-end Technologies
 
