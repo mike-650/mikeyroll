@@ -47,7 +47,8 @@ Mikeyroll, is a personal project inspired from Crunchyroll.
 
 ## Back-end Technologies
 
-- WIP
+- Node.js
+- Express.js
 
 ## Database
 
